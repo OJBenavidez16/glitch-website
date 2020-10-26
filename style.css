@@ -1,0 +1,14 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: acme, arial, sans-serif,'Cinzel', serif;
+  Background-color:black;
+  margin: 2em;
+  
+}
+
+h1 {
+  font-style: ariel;
+  color: black; 
+  
+}
